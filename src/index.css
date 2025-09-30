@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+  font-family: 'Alan Sans', sans-serif;
+}
 /* Modern Portfolio Design System - HSL Colors Only */
 
 @layer base {

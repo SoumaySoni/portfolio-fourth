@@ -29,7 +29,7 @@ export const Hero = () => {
           alt="Hero Background"
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-background/60 to-accent/20 backdrop-blur-[2px]" />
+        <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-background/60 to-accent/20 backdrop-blur-[4px]" />
       </div>
 
       {/* Animated Background Elements */}

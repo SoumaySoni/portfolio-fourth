@@ -93,7 +93,7 @@ export const About = () => {
                 className="text-center space-y-2"
               >
                 <div className="text-3xl font-bold gradient-text group-hover:scale-110 transition-transform duration-300">
-                  3+
+                  1+
                 </div>
                 <div className="text-muted-foreground font-medium">
                   Years Experience
@@ -110,7 +110,7 @@ export const About = () => {
                 className="text-center space-y-2"
               >
                 <div className="text-3xl font-bold gradient-text group-hover:scale-110 transition-transform duration-300">
-                  50+
+                  10+
                 </div>
                 <div className="text-muted-foreground font-medium">
                   Projects Completed
@@ -127,7 +127,7 @@ export const About = () => {
                 className="text-center space-y-2"
               >
                 <div className="text-3xl font-bold gradient-text group-hover:scale-110 transition-transform duration-300">
-                  25+
+                  10+
                 </div>
                 <div className="text-muted-foreground font-medium">
                   Happy Clients

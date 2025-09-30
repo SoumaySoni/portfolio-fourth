@@ -3,10 +3,10 @@ export const portfolioContent = {
     name: "Soumay Soni",
     role: "Frontend Developer",
     tagline: "Creating beautiful, responsive web experiences that drive results",
-    bio: "Passionate frontend developer with 3+ years of experience building modern web applications. I specialize in React, Next.js, and Tailwind CSS, helping businesses bring their digital visions to life.",
-    email: "alex@example.com",
-    phone: "+1 (555) 123-4567",
-    location: "San Francisco, CA",
+    bio: "Passionate frontend developer with 1+ years of experience building modern web applications. I specialize in React, Next.js, and Tailwind CSS, helping businesses bring their digital visions to life.",
+    email: "soumaysoni1687@gamil.com",
+    phone: "+91 8299421734",
+    location: "New Delhi, India",
     resumeUrl: "/resume.pdf"
   },
   
