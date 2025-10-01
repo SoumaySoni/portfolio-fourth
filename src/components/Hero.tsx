@@ -52,7 +52,7 @@ export const Hero = () => {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2, duration: 0.6 }}
-              className="text-lg sm:text-xl text-muted-foreground font-medium"
+              className="text-lg sm:text-xl text-foreground font-medium"
             >
               Hello, I'm
             </motion.p>
@@ -81,7 +81,7 @@ export const Hero = () => {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5, duration: 0.6 }}
-            className="text-lg sm:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed"
+            className="text-lg sm:text-xl text-foreground max-w-3xl mx-auto leading-relaxed"
           >
             {portfolioContent.personal.tagline}
           </motion.p>
