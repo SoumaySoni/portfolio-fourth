@@ -77,47 +77,42 @@ export const portfolioContent = {
       title: "Landing Pages",
       description: "High-converting landing pages that drive results and capture leads effectively.",
       features: ["Responsive Design", "SEO Optimized", "Fast Loading", "Conversion Focused"],
-      price: "Starting at $800"
+      price: "Starting at $200"
     },
     {
       title: "Portfolio Websites",
       description: "Professional portfolio websites that showcase your work and attract clients.",
       features: ["Custom Design", "Content Management", "Mobile Responsive", "Performance Optimized"],
-      price: "Starting at $1,200"
+      price: "Starting at $500"
     },
     {
       title: "Web Applications",
       description: "Custom web applications built with modern technologies and best practices.",
       features: ["React/Next.js", "Database Integration", "Authentication", "Admin Dashboard"],
-      price: "Starting at $2,500"
+      price: "Starting at $2,000"
     },
     {
       title: "Dashboard UIs",
       description: "Beautiful and functional dashboard interfaces for data visualization and management.",
       features: ["Data Visualization", "Real-time Updates", "User Management", "API Integration"],
-      price: "Starting at $1,800"
+      price: "Starting at $600"
     }
   ],
 
   socialLinks: [
     {
       name: "LinkedIn",
-      url: "https://linkedin.com/in/alexjohnson",
+      url: "https://www.linkedin.com/in/soumay-soni-911489202/",
       icon: "Linkedin"
     },
     {
       name: "GitHub",
-      url: "https://github.com/alexjohnson",
+      url: "https://github.com/soumaysoni",
       icon: "Github"
     },
     {
-      name: "Twitter",
-      url: "https://twitter.com/alexjohnson",
-      icon: "Twitter"
-    },
-    {
       name: "Email",
-      url: "mailto:alex@example.com",
+      url: "mailto:soumaysoni1687@gmail.com",
       icon: "Mail"
     }
   ]
